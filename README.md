@@ -1,2 +1,2 @@
-# gitcourse
+# Gitcourse
 course
